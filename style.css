@@ -1,0 +1,45 @@
+Table, th, td{
+    Border: 1px solid black; Background-color: rgb(79, 109, 150);
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h1{text-align:  center;}
+h3{text-align:  center;}
+
+
+
+
+
+
+
+
+
+body{
+    background-image:url(https://images.complex.com/complex/image/upload/v1723825635/sanity-new/gunna-launches-oneofwun-album-f-offset-roddy-ricc-3-1510-1715313848-0_16x9-7669555.jpg); /* The image used */
+   
+   
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+  }
+
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  p {
+    font-size: 16px;
+    color:peachpuff;
+  }
+  
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
